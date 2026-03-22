@@ -4,7 +4,3 @@
 ## [My website](https://aleksanderradlowski.com) | [linkedin](https://www.linkedin.com/in/aleksander-radłowskii)
 
 I'm just a Software developer whose interest is creating stuff.
-
-What i have done:
-- Service for predicting pingpong matches based on ai model -> [pongstake](https://github.com/Yuqoi/pongstake)
-- Mobile apk for managing flowers :) -> [flora](https://github.com/Yuqoi/Flora) 
